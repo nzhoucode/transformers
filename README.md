@@ -9,7 +9,6 @@ It includes:
 - Downscaled to run locally on a personal device.
 - Clear and comprehensive documentation.
 
----
 
 ## Features
 
